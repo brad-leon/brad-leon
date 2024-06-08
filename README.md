@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have 7 years of experience in the tech industry as a software developer. I have experience with both Front-end and Back-end development but I've been leaning more into the back-end side of things. I'm also learning video game development and excited to leverage my skills as a developer and passion for gaming.
+I have 7 years of experience in the tech industry as a software developer. I have experience with both Front-end and Back-end development but I've been leaning more into the back-end side of things. I'm also learning video game development and excited to combine my skills as a developer and passion for gaming.
 
 * 🌍  I'm based in Winnipeg, Canada
 * ✉️  You can contact me at [bradhansey@gmail.com](mailto:bradhansey@gmail.com)
